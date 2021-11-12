@@ -1,5 +1,5 @@
-from art import logo, vs
-from game_data import data
+from highlowart import logo, vs
+from highlowgame_data import data
 import random
 print(logo)
 from replit import clear
